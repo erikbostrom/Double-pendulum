@@ -2,7 +2,7 @@
 % Dynamical system for the stabilized inverted double pendulum problem
 %
 % t  : time
-% x  = (x1,...x6) : state variable
+% x  = (x1,...x6) : state variable vector
 %   where:
 %   x1 = theta1
 %   x2 = theta2
